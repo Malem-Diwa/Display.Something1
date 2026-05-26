@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/51.0">
+    <id>org.malem.malemdiwa500.displaySomething</id>
+    <versionNumber>1.0.0</versionNumber>
+    <filename>Display Something</filename>
+    <initialWindow>
+        <content>MAIN.swf</content>
+        <title>Display Something</title>
+        <visible>true</visible>
+        <width>640</width>
+        <height>480</height>
+    </initialWindow>
+</application>
