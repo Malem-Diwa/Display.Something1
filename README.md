@@ -8,6 +8,7 @@ Then, 1 month later (Tuesday, 25 May, 2026, 2:46:27 PM), due to low Disk space (
 
 # Purpose
 I created this project to test Adobe AIR SDK.
+Which is why it is really simple, and the Program size is small.
 
 # Notes
 - I will not update it further.
